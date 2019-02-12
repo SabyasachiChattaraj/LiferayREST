@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="data" type="text" index-type="keyword" instance-id="pshe">
+		<dynamic-content language-id="en_US"><![CDATA[dfgh]]></dynamic-content>
+	</dynamic-element>
+</root>
